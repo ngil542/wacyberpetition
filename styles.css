@@ -1,0 +1,23 @@
+
+	body{
+
+        background-color: rgb(174, 192, 170);
+    }
+	label{
+        font-weight: bold;
+    }
+    #feedbacklabel {
+    	display:  block; 
+    }
+	#information {
+		font-weight: lighter;
+	}
+    ul {
+        list-style: none;
+       
+    }
+    td {
+        text-align: left;
+        padding: 2px;
+    }
+    
